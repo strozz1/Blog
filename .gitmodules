@@ -1,0 +1,6 @@
+[submodule "article-service"]
+	path = article-service
+	url = https://github.com/strozz1/article-service
+[submodule "image-service"]
+	path = image-service
+	url = https://github.com/strozz1/image-service
